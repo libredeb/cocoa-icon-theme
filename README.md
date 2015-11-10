@@ -6,6 +6,6 @@ Icons based on OS X Yosemite/El Capitan for Ubuntu with Unity for lovers of OS X
 ![Cocoa Screenshot](https://lh5.googleusercontent.com/-9W3nYZ5aGgM/VjOqAdeHl1I/AAAAAAAAC3I/a_w-RBN6IUM/w498-h332-no/cocoadev.png)
 
 #Blueprints
-* base for circle icon [__✓__]
-* base for square icon [__✓__]
+* template base for circle icon [__✓__]
+* template base for square icon [__✓__]
 * scripts to carry the theme to other distributions [__postponed__]
