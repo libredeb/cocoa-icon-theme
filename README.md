@@ -7,5 +7,5 @@ Icons based on OS X Yosemite/El Capitan for Ubuntu with Unity for lovers of OS X
 
 #Blueprints
 * base for circle icon [__✓__]
-* base for square icon [_in progress_]
+* base for square icon [__✓__]
 * scripts to carry the theme to other distributions [__postponed__]

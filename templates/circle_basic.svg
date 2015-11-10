@@ -14,8 +14,8 @@
    height="96"
    id="svg3145"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="base.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="circle_basic.svg">
   <defs
      id="defs3147">
     <linearGradient
@@ -32,11 +32,11 @@
     <linearGradient
        id="linearGradient4433">
       <stop
-         style="stop-color:#5c6470;stop-opacity:1;"
+         style="stop-color:#abc2c2;stop-opacity:1"
          offset="0"
          id="stop4435" />
       <stop
-         style="stop-color:#abc2c2;stop-opacity:1;"
+         style="stop-color:#5c6470;stop-opacity:1"
          offset="1"
          id="stop4437" />
     </linearGradient>
@@ -67,7 +67,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.9497475"
-     inkscape:cx="39.270484"
+     inkscape:cx="4.6222519"
      inkscape:cy="54.524869"
      inkscape:current-layer="layer1"
      showgrid="false"
