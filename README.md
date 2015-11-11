@@ -1,4 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/libredeb/cocoa-icon-theme/master/cocoa-logo.png)
+
+##Description
 Icons based on OS X Yosemite/El Capitan for Ubuntu with Unity for lovers of OS X and others owners Icons inspired in OS X.
 
 ##Preview
