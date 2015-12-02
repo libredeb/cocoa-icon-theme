@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r"
-   sodipodi:docname="accessories-calculator_mine.svg">
+   sodipodi:docname="accessories-calculator.svg">
   <defs
      id="defs4">
     <linearGradient
@@ -653,11 +653,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5208332"
-     inkscape:cx="68.224269"
-     inkscape:cy="72.80845"
+     inkscape:zoom="62.461097"
+     inkscape:cx="100.09013"
+     inkscape:cy="30.315654"
      inkscape:document-units="px"
-     inkscape:current-layer="g3499"
+     inkscape:current-layer="text3372-3"
      showgrid="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
@@ -3609,6 +3609,15 @@
            style="opacity:0.1;fill:#000000;fill-opacity:1;stroke:none"
            d="m 6.0449252,962.48225 c 0,0 -0.067842,0.0172 -0.067842,9.87993 l 0,1 0.00813,-9.97599 69.5428418,-0.1259 c 0,0 0,0 0.06883,10.10189 l -0.02815,-10.88299 -0.01253,-0.11701 z"
            id="path3402" />
+        <g
+           transform="matrix(0.99990252,-0.01396217,0.01396217,0.99990252,0,0)"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.750947px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e6e6e6;fill-opacity:1;stroke:none"
+           id="text3372-3">
+          <path
+             d="m 50.68553,1040.3535 0,-0.4879 3.279879,0 0,0.4879 -3.279879,0 z m 0,1.6877 0,-0.4878 3.279879,0 0,0.4878 -3.279879,0 z"
+             style=""
+             id="path3974" />
+        </g>
       </g>
     </g>
   </g>
